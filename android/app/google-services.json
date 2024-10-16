@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948394829737",
+    "project_id": "finalauth-af6d9",
+    "storage_bucket": "finalauth-af6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948394829737:android:51e23c227a4c62612446b8",
+        "android_client_info": {
+          "package_name": "com.example.base2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVmXpF50w31Q3KDz1gm5oEc8UCelYuh8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
